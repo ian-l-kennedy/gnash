@@ -1,0 +1,8 @@
+Package: gnash
+Version: 0.1
+Architecture: all
+Essential: no
+Priority:
+Depends: bash
+Maintainer: Ian Kennedy
+Description: util library for bash
